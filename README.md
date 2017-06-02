@@ -1,6 +1,6 @@
 
 # Ace.Chat.Android
-Rocket.Chat Native Android Application.
+Ace.Chat Native Android Application. Please be sure That this project is not  public by me till now so users are instruct to make this git private after Fork :v enjoy
 
 ## How to build
 
