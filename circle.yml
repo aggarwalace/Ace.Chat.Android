@@ -38,6 +38,7 @@ test:
 
 deployment:
   beta:
+    branch: develop
     tag: /v\d+\.\d+\.\d+(?!.)/
     owner: RocketChat
     commands:
@@ -48,4 +49,4 @@ deployment:
     owner: RocketChat
     commands:
       - ./gradlew publishListingRelease
-        -Dorg.gradle.pr oject.track=alpha
+        -Dorg.gradle.project.track=alpha
