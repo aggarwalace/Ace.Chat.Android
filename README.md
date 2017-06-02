@@ -1,4 +1,3 @@
-[![CircleCI](https://circleci.com/gh/RocketChat/Rocket.Chat.Android/tree/develop.svg?style=shield)](https://circleci.com/gh/RocketChat/Rocket.Chat.Android/tree/develop) [![Build Status](https://travis-ci.org/RocketChat/Rocket.Chat.Android.svg?branch=develop)](https://travis-ci.org/RocketChat/Rocket.Chat.Android)
 
 # Rocket.Chat.Android
 Rocket.Chat Native Android Application.
@@ -20,4 +19,11 @@ echo "sdk.dir="$ANDROID_HOME > local.properties
 
 ## Bug report & Feature request
 
-Please report via [GitHub issue](https://github.com/RocketChat/Rocket.Chat.Android/issues) :)
+Please report via [GitHub issue](https://github.com/aggarwalace) :)
+
+
+## About Developer
+Fuck OFF Get your Lazy asses on google and search for me :v
+
+![Ace-Chat](https://raw.githubusercontent.com/aggarwalace/Ace.Chat.Android/develop/Cover.jpg "Banner")
+
