@@ -1,5 +1,5 @@
 
-# Rocket.Chat.Android
+# Ace.Chat.Android
 Rocket.Chat Native Android Application.
 
 ## How to build
